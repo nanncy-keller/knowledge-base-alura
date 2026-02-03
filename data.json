@@ -1,0 +1,104 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "O JavaScript é uma linguagem da Web, essencial para criar interatividade em sites.",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "descricao": "O Python é uma linguagem versátil, muito amada na Ciência de Dados e Inteligência Artificial.",
+        "ano": 1991,
+        "link": "https://docs.python.org/3/"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem de programação orientada a objetos, muito robusta para aplicações empresariais.",
+        "ano": 1995,
+        "link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# é uma linguagem moderna desenvolvida pela Microsoft, perfeita para jogos com Unity e apps Windows.",
+        "ano": 2000,
+        "link": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Go é uma linguagem do Google focada em simplicidade e alta performance para sistemas modernos.",
+        "ano": 2009,
+        "link": "https://go.dev/doc/"
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Rust é focada em segurança de memória e performance, sendo a queridinha para sistemas de baixo nível.",
+        "ano": 2010,
+        "link": "https://www.rust-lang.org/learn"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript adiciona superpoderes de tipagem ao JavaScript, ajudando a evitar erros bobos no código.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/docs/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem clássica para o lado do servidor, movendo grande parte dos sites da internet.",
+        "ano": 1995,
+        "link": "https://www.php.net/manual/pt_BR/"
+    },
+    {
+        "nome": "Ruby",
+        "descricao": "Ruby foca na felicidade do programador, com uma sintaxe elegante e produtiva.",
+        "ano": 1995,
+        "link": "https://www.ruby-lang.org/pt/"
+    },
+    {
+        "nome": "C++",
+        "descricao": "C++ é uma extensão poderosa do C, usada em tudo, desde sistemas operacionais até jogos pesados.",
+        "ano": 1985,
+        "link": "https://isocpp.org/documentation"
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Kotlin é a linguagem moderna e oficial para o desenvolvimento de aplicativos Android.",
+        "ano": 2011,
+        "link": "https://kotlinlang.org/docs/home.html"
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Swift é a linguagem poderosa e intuitiva criada pela Apple para desenvolver apps iOS e macOS.",
+        "ano": 2014,
+        "link": "https://www.swift.org/documentation/"
+    },
+    {
+        "nome": "SQL",
+        "descricao": "SQL é a linguagem padrão para gerenciar e consultar bancos de dados relacionais.",
+        "ano": 1974,
+        "link": "https://learn.microsoft.com/en-us/sql/sql-server/"
+    },
+    {
+        "nome": "Dart",
+        "descricao": "Dart é a linguagem por trás do Flutter, usada para criar apps lindos para celular e web com um único código.",
+        "ano": 2011,
+        "link": "https://dart.dev/guides"
+    },
+    {
+        "nome": "R",
+        "descricao": "R é a linguagem favorita de estatísticos e analistas para exploração e visualização de dados.",
+        "ano": 1993,
+        "link": "https://www.r-project.org/other-docs.html"
+    },
+    {
+        "nome": "Scala",
+        "descricao": "Scala combina programação funcional e orientada a objetos, rodando na máquina virtual do Java.",
+        "ano": 2004,
+        "link": "https://docs.scala-lang.org/"
+    },
+    {
+        "nome": "Lua",
+        "descricao": "Lua é uma linguagem brasileira, leve e poderosa, muito usada em scripts de jogos como Roblox.",
+        "ano": 1993,
+        "link": "https://www.lua.org/docs.html"
+    }
+]
