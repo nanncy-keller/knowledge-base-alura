@@ -12,7 +12,7 @@ async function carregarDadosIniciais() {
         // Renderiza tudo na primeira carga!
         renderizarCards(dados);
     } catch (erro) {
-        console.error("Houve um errinho ao carregar os dados! 🎀", erro);
+        console.error("Houve um errinho ao carregar os dados!", erro);
     }
 }
 
@@ -50,5 +50,6 @@ botaoBusca.addEventListener("click", () => {
     
     renderizarCards(dadosFiltrados);
 });
+
 
 carregarDadosIniciais();
